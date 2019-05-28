@@ -1,4 +1,14 @@
+.html{
+  min-height: 100%;
+  position:relative;
+}
+
 .logo{
-  width: 0.25em;
-  height: 0.25em;
+  width: 5rem;
+  height: 5rem;
+}
+
+.head-banner{
+  position: relative;
+  height: 40em;
 }
