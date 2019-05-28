@@ -12,8 +12,8 @@
 
 .bg-primary-brown{
   background-color:rgb(220,107,35);
-  padding-top: 12em;
-  padding-bottom: 0;
+  display: flex;
+  justify-content: center;
 }
 
 .bg-secondary-brown{
