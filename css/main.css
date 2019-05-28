@@ -1,7 +1,6 @@
 .html{
   min-height: 100%;
   position:relative;
-
 }
 
 .logo{
@@ -16,6 +15,8 @@
 
 .bg-primary-brown{
   background-color:rgb(220,107,35);
+  padding-top: 12em;
+  padding-bottom: 0;
 }
 
 .bg-secondary-brown{
