@@ -18,4 +18,6 @@
 
 .bg-secondary-brown{
   background-color: rgb(158,71,23);
+  display:flex;
+  justify-content: center;
 }
