@@ -1,6 +1,7 @@
 .html{
   min-height: 100%;
   position:relative;
+
 }
 
 .logo{
@@ -11,4 +12,12 @@
 .head-banner{
   position: relative;
   height: 40em;
+}
+
+.bg-primary-brown{
+  background-color:rgb(220,107,35);
+}
+
+.bg-secondary-brown{
+  background-color: rgb(158,71,23);
 }
