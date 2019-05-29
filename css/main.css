@@ -14,8 +14,6 @@
   background-color:rgb(220,107,35);
   display: flex;
   justify-content: center;
-  padding-bottom: 0em;
-  color: #fff;
 }
 
 .bg-secondary-brown{
@@ -26,15 +24,4 @@
 
 .dark-bg-text{
   color: rgb(218, 206, 206);
-}
-
-.down-arrow{
-  position: relative;
-  bottom: -25px;
-  width: 50px;
-  height: 50px;
-}
-
-.pad-bottom{
-  padding-bottom: 0em;
 }
